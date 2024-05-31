@@ -1,6 +1,6 @@
 ![logo](https://github.com/themeghachoudhary/themeghachoudhary3/blob/main/coding.avif)
 <h1 align="center">Hi 👋, I'm Megha Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">BCA student from India</h3>
 
 <img align="right" width="400" src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKFyppkVlm8Lw7Z9m9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzIyMDZhNzZhZTY4YWUzMTc2ZGU2Mzc4N2NiZmMyYzQ3BGdwb3MDNzEEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE211IN1589G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26nost%3D1%26tab%3Dorganic%26ri%3D71&w=800&h=600&imgurl=res.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--O0u1bNHs--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F0%2APXf5ge7QCN9Ga_CL.gif&rurl=https%3A%2F%2Fdev.to%2Fshristi26281534%2Fweb-developer-vs-software-developer-2en&size=614.2KB&p=animated+coding+gif&oid=2206a76ae68ae3176de63787cbfc2c47&fr2=piv-web&fr=mcafee&tt=Web+Developer+vs+Software+Developer+-+DEV+Community&b=61&ni=21&no=71&ts=&tab=organic&sigr=0gXVByqVpol5&sigb=jTXOC_USpYS4&sigi=RqAkijGSvaJC&sigt=cOCNHrdMecaO&.crumb=0SoXH2g8sD5&fr=mcafee&fr2=piv-web&type=E211IN1589G0" />
 
